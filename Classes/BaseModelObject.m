@@ -4,7 +4,7 @@
 //
 //  Created by xiaoming on 15/11/9.
 //  Copyright © 2015年 dandanshan. All rights reserved.
-//
+//  使用方法在TestModelObject里面
 
 #import "BaseModelObject.h"
 #import <objc/runtime.h>    //归档、解档 需要。
