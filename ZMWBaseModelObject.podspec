@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name             = "ZMWBaseModelObject"
 
-s.version          = "1.0.0"
+s.version          = "1.0.2"
 
 s.summary          = "利用Runtime给Model赋值、归档、解档"
 
