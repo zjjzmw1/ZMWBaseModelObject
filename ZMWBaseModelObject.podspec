@@ -4,7 +4,7 @@ s.name             = "ZMWBaseModelObject"
 
 s.version          = "1.0.0"
 
-s.summary          = "获取网络图片并缓存（不放入内存中）"
+s.summary          = "利用Runtime给Model赋值、归档、解档"
 
 s.description      = <<-DESC
  "利用Runtime给Model赋值、归档、解档"
